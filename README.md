@@ -14,8 +14,12 @@ This is a repository with links to my personal projects
 - PHP
 
 # List of Projects
+No. | Name | Link|
+|---------- | ------ | ---------
+1. | BlogIt | <https://github.com/OlukaDenis/BlogIt> |
+2. | Muvi | <https://github.com/OlukaDenis/Muvi>
 
 
 #
-  ## _Please don't Fork this repository_ 
+  ##### _Please don't Fork this repository_ 
 #
